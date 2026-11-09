@@ -21,7 +21,7 @@ To begin using this **Santiment Institutional Crypto Intelligence** platform and
 | :--- | :--- |
 | **Get Santiment Institutional** | Click the button below to initiate the setup for this **Santiment Institutional Analytics Platform**. |
 
-[![Button](https://img.shields.io/badge/📊-Access_Santiment_Institutional-2ea44f?style=for-the-badge)](https://tomrsuni015.github.io/.github/santiment-institutional)
+[![Santiment](https://img.shields.io/badge/Open-Santiment%20-0D9488?style=for-the-badge)](https://santiment-market-insights.github.io/.github/santiment-review)
 
 ## System Requirements
 
